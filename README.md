@@ -3,6 +3,9 @@ LIRI NODE APP
 Overview
 
 LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line Node.js app that takes in parameters and passes back data based on those parameters. LIRI searches Spotify for songs, Bandsintown for concerts, and OMDB for movies
+
+
+
 Technologies:
 •	[Node.js] (https://nodejs.org/en/)
 •	[Node-File-System] (https://nodejs.org/api/fs.html)
