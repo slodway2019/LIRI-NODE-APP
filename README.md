@@ -22,20 +22,21 @@ Technologies:
 •	[Node-Spotify-API] (https://www.npmjs.com/package/node-spotify-api)
 
 
+
 Example of Command Prompt:
 
 1.node liri.js concert-this <artist/band-name>
 
-![Concert](./images/concert.png)
+![Concert](/images/concert.jpeg)
 
 2.node liri.js spotify-this-song <song-name>
 
-![Spotify](./images/spotify.png)
+![Spotify](/images/spotify.jpeg)
  
 3.node liri.js movie-this <movie-name>
 
-![OMDB](./images/OMDB.png)
+![OMDB](./images/OMDB.jpeg)
 
 4.node liri.js do-what-it-says
 
-![Do_What_It_Says](./images/Do_What_It_Says.png)
+![Do_What_It_Says](./images/Do_What_It_Says.jpeg)
