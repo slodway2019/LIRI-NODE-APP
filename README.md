@@ -18,8 +18,11 @@ Technologies:
 Example of Command Prompt
 
 1.node liri.js concert-this <artist/band-name>
+
 2.node liri.js spotify-this-song <song-name>
+ 
 3.node liri.js movie-this <movie-name>
+ 
 4.node liri.js do-what-it-says
 
  
