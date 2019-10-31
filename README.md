@@ -27,16 +27,16 @@ Example of Command Prompt:
 
 1.node liri.js concert-this <artist/band-name>
 
-![Concert](/images/concert.jpeg)
+![Concert](/images/concert.jpg)
 
 2.node liri.js spotify-this-song <song-name>
 
-![Spotify](/images/spotify.jpeg)
+![Spotify](/images/spotify.jpg)
  
 3.node liri.js movie-this <movie-name>
 
-![OMDB](./images/OMDB.jpeg)
+![OMDB](./images/OMDB.jpg)
 
 4.node liri.js do-what-it-says
 
-![Do_What_It_Says](./images/Do_What_It_Says.jpeg)
+![Do_What_It_Says](./images/Do_What_It_Says.jpg)
