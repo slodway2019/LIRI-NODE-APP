@@ -32,7 +32,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
 2.node liri.js spotify-this-song <song-name>
 
-![Spotify](/images/spotify.jpg)
+![Spotify](/images/Spotify.jpg)
  
 3.node liri.js movie-this <movie-name>
 
@@ -40,4 +40,4 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
 4.node liri.js do-what-it-says
 
-![Do_What_It_Says](/images/Do_What_It_Says.jpg)
+![Do_What_It_Says](/images/Do.jpg)
